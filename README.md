@@ -1,0 +1,2 @@
+# ERP_SYSTEM
+Website based on JSP and Servlet. Built using MVC design pattern. Objective is to manage the college system. On it super admin only can add students, faculties and staff and they get automated mail. It includes course, attendance, hostel and library management. Also, only the authorized users can access their corresponding functionalities of their respective departments that they have been allotted.
